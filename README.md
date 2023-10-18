@@ -56,10 +56,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ramilsalihar/ramilsalihar/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="left">Support:</h3>
